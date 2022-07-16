@@ -47,3 +47,12 @@ public class OddEven {
 
 
 }
+
+//    Enter a number: 17
+//        The number 17 is odd.
+//        silly programming time : 15.288175 ms
+//        -----------------------------------------------
+//        The number 17 is odd.
+//        sensible programming time : 0.329245 ms
+//        -----------------------------------------------
+//        sensible programming is 46 times faster
